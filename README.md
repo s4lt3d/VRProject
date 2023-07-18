@@ -1,4 +1,4 @@
-# VRProject
+# VR Experiment Project with Unity
 ## First VR Test
 Can open and close hands and pinch
 
